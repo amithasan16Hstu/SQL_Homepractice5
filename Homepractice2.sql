@@ -1,0 +1,1 @@
+SELECT * FROM home_practice2.student_class;
